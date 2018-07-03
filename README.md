@@ -2,7 +2,7 @@
 
 ## Introduction
 This project is done from Udacity's React Nanodegree where we have to create a small book library website
-using python.
+using React.
 
 ## Instructions
 To run this program, on the terminal, do `npm install` and then run `npm start`.
